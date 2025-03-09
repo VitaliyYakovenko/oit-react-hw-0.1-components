@@ -1,0 +1,21 @@
+
+.friendList {
+   width: 600px;
+   margin: 0 auto;
+   margin-bottom: 100px;
+
+   text-align: center;
+}
+
+
+.friendItem {
+    border: 1px solid black;
+    border-radius: 25%;
+    width: 150px;
+    margin: 0 auto;
+}
+
+
+.friendItem:not(:last-child) {
+    margin-bottom: 40px;
+}

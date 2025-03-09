@@ -1,0 +1,36 @@
+.section {
+   margin: 0 auto;
+   margin-bottom: 60px;
+
+   width: 600px;
+   text-align: center;
+}
+
+
+.statisticsTitle {
+    font-size: 44px;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+
+
+.dataList {
+    display: flex;
+    align-items: center;
+}
+
+.dataItem {
+    padding: 44px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 15px;
+
+    font-size: 20px;
+}
+
+
+.percentage {
+    font-size: 20px;
+}
